@@ -44,6 +44,9 @@ nav ul li a.active {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    max-width: 400px;
+    margin: auto;
+}
     
 footer {
     background-color: black;
@@ -56,3 +59,4 @@ footer {
     width: 100%;
 
 }
+
