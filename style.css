@@ -39,6 +39,12 @@ nav ul li a.active {
     color:red;
 }
 
+
+.contact form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
 footer {
     background-color: black;
     color: aliceblue;
@@ -48,4 +54,5 @@ footer {
     bottom: 0;
     left: 0;
     width: 100%;
+
 }
